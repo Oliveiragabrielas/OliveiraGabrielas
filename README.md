@@ -1,13 +1,10 @@
-💫 Olá, eu sou Gabriela !
+## ✨Gabriela de Oliveira
 
-- Estudante do 2º ano de Desenvolvimento de Sistemas.
+Olá, meu nome é Gabriela. Tenho 16 anos e atualmente estou no 2º ano do curso de Desenvolvimento de Sistemas no SENAI. Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades em programação, com o objetivo de adquirir experiência e me preparar para ingressar no mercado de trabalho na área de tecnologia.
 
-- Aprendendo programação e desenvolvimento web.
+<br>
 
-- Compartilhando meus projetos e estudos.
-
-
-## 💻 Tecnologias
+## 💻 Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -15,9 +12,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+</p>
+<br>
+<h2>📊 Estatísticas</h2>
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=OliveiraGabrielas&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraGabrielas&layout=compact&theme=tokyonight"/>
 </p>
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue)
-
- 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/5f41f795-be46-4dc1-a8a5-fde4882384d6" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f3818716-89a3-4beb-96fc-f05c80874674" width="400"/>
+</p>
