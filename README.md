@@ -1,6 +1,10 @@
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&color=FF10F0&size=40&vCenter=true&width=650&lines=Gabriela+de+Oliveira;Desenvolvimento+de+Sistemas;Futura+Dev">
 </p>
+
+|Desenvolvedora Front-And
+<br>
+
 Olá, meu nome é Gabriela. Tenho 16 anos e atualmente estou no 2º ano do curso de Desenvolvimento de Sistemas no SENAI. Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades em programação, com o objetivo de adquirir experiência e me preparar para ingressar no mercado de trabalho na área de tecnologia.
 
 <br>
