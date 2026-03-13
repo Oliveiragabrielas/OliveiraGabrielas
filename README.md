@@ -1,5 +1,5 @@
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&color=FF10F0&size=40&vCenter=true&width=650&lines=Gabriela+de+Oliveira;Desenvolvimento+de+Sistemas;Futura+Dev">
