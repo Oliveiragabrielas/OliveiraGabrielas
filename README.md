@@ -1,10 +1,10 @@
-Olá, eu sou Gabriela 👋
+Olá, eu sou Gabriela !
 
-🎓 Estudante do 2º ano de Desenvolvimento de Sistemas
+🎓 Estudante do 2º ano de Desenvolvimento de Sistemas.
 
-⭐ Aprendendo programação e desenvolvimento web
+⭐ Aprendendo programação e desenvolvimento web.
 
-⭐ Compartilhando meus projetos e estudos
+⭐ Compartilhando meus projetos e estudos.
 
 
 <h2>💻 Tecnologias</h2>
@@ -17,7 +17,7 @@ Olá, eu sou Gabriela 👋
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue)
