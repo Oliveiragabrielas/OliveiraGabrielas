@@ -28,6 +28,28 @@ habilidades em programação, com o objetivo de adquirir experiência e me prepa
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
 </p>
 <br>
+
+📁 Certificados
+
+│── Excel-Basico-SENAI-http://www.sp.senai.br/consulta-certificado?qrcode=00044855/7972933
+
+│── Fluencia-Fundamentos-da-Inteligencia-Artificial-http://www.sp.senai.br/consulta-certificado?qrcode=00044862/7972933
+
+│── Etica-na-Inteligencia-Artificial-http://www.sp.senai.br/consulta-certificado?qrcode=00044861/7972933
+
+│── Por-Dentro-da-Seguranca-Cibernetica-http://www.sp.senai.br/consulta-certificado?qrcode=00044858/7972933
+
+│── Desvendando-a-Industria-4.0-http://www.sp.senai.br/consulta-certificado?qrcode=00029/7972933
+
+│── Desvendando-o-ESG-http://www.sp.senai.br/consulta-certificado?qrcode=00058/7972933
+
+│── Geracao-de-Valor-Circular-e-Modelos-de-Negocio-http://www.sp.senai.br/consulta-certificado?qrcode=00067/7972933
+
+│──FLUÊNCIA - FUNDAMENTOS DA INTELIGÊNCIA
+ARTIFICIAL-http://www.sp.senai.br/consulta-certificado?qrcode=00044862/7972933
+
+<br>
+
 <h2>📊 Estatísticas</h2>
 
 <p align="left">
