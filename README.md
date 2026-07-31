@@ -50,6 +50,9 @@ ARTIFICIAL-http://www.sp.senai.br/consulta-certificado?qrcode=00044862/7972933
 
 <br>
 
+
+
+
 Linkedin-www.linkedin.com/in/gabriela-oliveira-2ba539422
 
 <h2>📊 Estatísticas</h2>
