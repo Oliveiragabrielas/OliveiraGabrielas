@@ -8,7 +8,7 @@
 |Desenvolvedora Front-End
 <br>
 
-Olá, meu nome é Gabriela. Tenho 16 anos e atualmente estou no 2º ano do curso de Desenvolvimento de Sistemas no SENAI. Busco constantemente aprender novas tecnologias e aprimorar minhas
+Olá, meu nome é Gabriela. Tenho 17 anos e atualmente estou no 2º ano do curso de Desenvolvimento de Sistemas no SENAI. Busco constantemente aprender novas tecnologias e aprimorar minhas
 habilidades em programação, com o objetivo de adquirir experiência e me preparar para ingressar no mercado de trabalho na área de tecnologia.
 
 <br>
