@@ -51,15 +51,7 @@ ARTIFICIAL-http://www.sp.senai.br/consulta-certificado?qrcode=00044862/7972933
 <br>
 
 
-
-
 Linkedin-www.linkedin.com/in/gabriela-oliveira-2ba539422
-
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=OliveiraGabrielas&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraGabrielas&layout=compact&theme=tokyonight"/>
-</p>
 
 
 <p align="left">
