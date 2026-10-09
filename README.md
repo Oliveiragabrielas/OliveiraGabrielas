@@ -59,6 +59,7 @@ Estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e c
 | **Calculadora Simples** | Calculadora com as quatro operações matemáticas. | React e JavaScript |
 | **Smart Pet Feeder** | Projeto de alimentador pet automatizado e inteligente. | ESP32 e Arduino |
 
+
 </div>
 
 ---
