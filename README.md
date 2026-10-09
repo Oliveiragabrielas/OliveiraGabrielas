@@ -55,7 +55,7 @@ Estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e c
 |:---|:---|:---|
 | **Biblioteca Web** | Aplicação web desenvolvida como projeto de TCC. | PHP, MySQL e Web |
 | **Retro Beats Café** | Site com temática retrô, música e cardápio. | HTML, CSS e Bootstrap |
-| **Auto Imperium** | Sistema para gerenciamento de fornecedores e produtos. | PHP e MySQL |
+| **Auto Imperium** | Sistema para gerenciamento de fornecedores e produtos automotivos. | PHP e MySQL |
 | **Calculadora Simples** | Calculadora com as quatro operações matemáticas. | React e JavaScript |
 | **Smart Pet Feeder** | Projeto de alimentador pet automatizado e inteligente. | ESP32 e Arduino |
 
