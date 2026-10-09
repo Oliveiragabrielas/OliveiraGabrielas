@@ -98,18 +98,6 @@ Aprendendo, praticando e transformando conhecimento em projetos.
 
 </div>
 
----
-
-##  Meu cantinho galáctico
-
-<div align="center">
-
-<img src="./Batman Returns (1992) dir_ Tim Burton.gif" width="48%" alt="GIF de morcego"/>
-<img src="./minecraft.jpg" width="48%" alt="GIF de galáxia"/>
-
-</div>
-
----
 
 ##  Estatísticas do GitHub
 
@@ -123,6 +111,8 @@ Aprendendo, praticando e transformando conhecimento em projetos.
 
 ---
 
+
+---
 <div align="center">
 
 ### ♡ Sempre aprendendo, criando e evoluindo.
