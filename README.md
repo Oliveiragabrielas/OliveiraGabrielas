@@ -51,13 +51,17 @@ Estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e c
 
 <div align="center">
 
-| Projeto | Descrição | Tecnologias |
-|:---|:---|:---|
-| **Biblioteca Web** | Aplicação web desenvolvida como projeto de TCC. | PHP, MySQL e Web |
-| **Retro Beats Café** | Site com temática retrô, música e cardápio. | HTML, CSS e Bootstrap |
-| **Auto Imperium** | Sistema para gerenciamento de fornecedores e produtos automotivos. | PHP e MySQL |
-| **Calculadora Simples** | Calculadora com as quatro operações matemáticas. | React e JavaScript |
-| **Smart Pet Feeder** | Projeto de alimentador pet automatizado e inteligente. | ESP32 e Arduino |
+| Projeto                 | Descrição                                                          | Tecnologias                   |
+| :---------------------- | :----------------------------------------------------------------- | :---------------------------- |
+| **Biblioteca Web**      | Aplicação web desenvolvida como projeto de TCC.                    | PHP, MySQL e Web              |
+| **Retro Beats Café**    | Site com temática retrô, música e cardápio.                        | HTML, CSS e Bootstrap         |
+| **Auto Imperium**       | Sistema para gerenciamento de fornecedores e produtos automotivos. | PHP e MySQL                   |
+| **Calculadora Simples** | Calculadora com as quatro operações matemáticas.                   | React e JavaScript            |
+| **Smart Pet Feeder**    | Alimentador pet automatizado e inteligente.                        | ESP32 e Arduino               |
+| **PinkList**            | Aplicação de lista de compras com interface rosa e branca.         | React, JavaScript, HTML e CSS |
+| **NeuroLab Center**     | Site para uma clínica com informações e serviços de atendimento.   | HTML, CSS e JavaScript        |
+| **Site de Relógios**   | Site de relógios com identidade visual inspirada no estilo retrô.  | HTML, CSS e Bootstrap         |
+
 
 
 </div>
