@@ -104,8 +104,8 @@ Aprendendo, praticando e transformando conhecimento em projetos.
 
 <div align="center">
 
-<img src="./BAT.gif" width="48%" alt="GIF de morcego"/>
-<img src="./GALAX.gif" width="48%" alt="GIF de galáxia"/>
+<img src="./Batman Returns (1992) dir_ Tim Burton.gif" width="48%" alt="GIF de morcego"/>
+<img src="./minecraft.jpg" width="48%" alt="GIF de galáxia"/>
 
 </div>
 
